@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\migrations\\20260527160353_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\migrations\\20260527160353_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Controllers\\CategoriasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen_T1_Prueba\\Controllers\\CategoriasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\migrations\\20260527161218_agregarvalidaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\migrations\\20260527161218_agregarvalidaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\migrations\\20260527161218_agregarvalidaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\migrations\\20260527161218_agregarvalidaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\migrations\\20260527160353_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\migrations\\20260527160353_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\examen_t1_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\examen_t1_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F1B0A2-0844-4FE8-93CC-421EF7919AEE}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|c:\\users\\lario\\onedrive\\desktop\\examen\\examen_t1_prueba\\examen_t1_prueba\\examen_t1_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{810DB736-C10C-1161-04D1-014EDFD647DD}|Examen_T1_Prueba\\Examen_T1_Prueba.csproj|solutionrelative:examen_t1_prueba\\examen_t1_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Program.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Program.cs",
@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T16:00:46.021Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -74,14 +73,14 @@
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Examen_T1_Prueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T16:25:02.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "20260527161218_AgregarValidaciones.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Migrations\\20260527161218_AgregarValidaciones.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Migrations\\20260527161218_AgregarValidaciones.cs",
@@ -89,16 +88,11 @@
               "RelativeToolTip": "Examen_T1_Prueba\\Migrations\\20260527161218_AgregarValidaciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T16:12:24.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "WhenOpened": "2026-05-27T16:12:24.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Controllers\\CategoriasController.cs",
@@ -106,12 +100,11 @@
               "RelativeToolTip": "Examen_T1_Prueba\\Controllers\\CategoriasController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T16:06:40.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T16:06:40.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "20260527160353_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Migrations\\20260527160353_Inicial.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Migrations\\20260527160353_Inicial.cs",
@@ -119,8 +112,7 @@
               "RelativeToolTip": "Examen_T1_Prueba\\Migrations\\20260527160353_Inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T16:03:53.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T16:03:53.662Z"
             },
             {
               "$type": "Document",
@@ -132,12 +124,11 @@
               "RelativeToolTip": "Examen_T1_Prueba\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-27T16:00:49.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T16:00:49.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Datos\\ApplicationDbContext.cs",
@@ -145,12 +136,11 @@
               "RelativeToolTip": "Examen_T1_Prueba\\Datos\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T16:00:28.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T16:00:28.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Models\\Categoria.cs",
@@ -158,12 +148,11 @@
               "RelativeToolTip": "Examen_T1_Prueba\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T15:59:33.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:59:33.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Controllers\\HomeController.cs",
@@ -171,21 +160,19 @@
               "RelativeToolTip": "Examen_T1_Prueba\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T15:53:48.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:53:48.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Examen_T1_Prueba",
+              "DocumentIndex": 9,
+              "Title": "Examen_T1_Prueba.csproj",
               "DocumentMoniker": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Examen_T1_Prueba.csproj",
               "RelativeDocumentMoniker": "Examen_T1_Prueba\\Examen_T1_Prueba.csproj",
               "ToolTip": "C:\\Users\\lario\\OneDrive\\Desktop\\Examen\\Examen_T1_Prueba\\Examen_T1_Prueba\\Examen_T1_Prueba.csproj",
               "RelativeToolTip": "Examen_T1_Prueba\\Examen_T1_Prueba.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-27T15:53:43.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:53:43.949Z"
             }
           ]
         }
